@@ -1,0 +1,11 @@
+employeeid,lastname,firstname,birthdate,photo,notes
+1,Silva,Carlos,1975-03-15,FuncID1.pic,Carlos é bacharel em Administração pela USP. Concluiu o curso de Gestão de Vendas. É membro da Associação Brasileira de Marketing.
+2,Santos,Ana Paula,1980-06-22,FuncID2.pic,Ana Paula possui MBA em Marketing pela FGV e graduação pela UNICAMP. É fluente em inglês e espanhol. Ingressou como representante de vendas e foi promovida a gerente regional. É membro da Associação Brasileira de Marketing e do Instituto Brasileiro de Executivos de Vendas.
+3,Oliveira,Fernanda,1990-11-08,FuncID3.pic,Fernanda possui graduação em Nutrição pela UFRJ. Concluiu certificação em gestão de alimentos. Iniciou como assistente comercial e foi promovida a representante de vendas.
+4,Souza,Ricardo,1968-09-12,FuncID4.pic,Ricardo possui graduação em Administração pela PUC-SP e pós-graduação pelo INSPER. Foi alocado temporariamente na filial de Manaus antes de retornar à sede em São Paulo.
+5,Ferreira,Marcos,1972-07-30,FuncID5.pic,"Marcos se formou na ESPM com graduação em Publicidade. Ao ingressar como representante, passou por treinamento em São Paulo e retornou ao Rio de Janeiro, onde foi promovido a gerente de vendas. Concluiu os cursos de Televendas e Gestão Comercial Internacional. É fluente em inglês."
+6,Pereira,Juliana,1985-04-18,FuncID6.pic,Juliana é graduada em Economia pela UFMG e tem MBA pela FIA. Realizou os cursos de Negociação Avançada e Gestão Comercial. Fala inglês e espanhol fluentemente.
+7,Costa,Roberto,1978-12-03,FuncID7.pic,Roberto atuou no serviço público antes de ingressar na empresa. Concluiu especialização em Gestão de Negócios pela FGV e foi transferido para a filial de Curitiba.
+8,Almeida,Larissa,1982-02-27,FuncID8.pic,Larissa possui graduação em Psicologia pela UFSC. Realizou curso de negociação comercial. Lê e escreve em inglês e espanhol.
+9,Rodrigues,Patricia,1992-08-14,FuncID9.pic,Patricia possui graduação em Letras pela UNESP. É fluente em inglês e francês.
+10,Lima,Bruno,1970-05-09,FuncID10.pic,Um velho amigo.

@@ -1,0 +1,21 @@
+supplierid,suppliername,contactname,address,city,postalcode,country,phone
+1,Ambev Distribuidora,Rodrigo Melo,"Rua da Várzea, 300",São Paulo,01140-080,Brasil,(11) 3322-1100
+2,Coco Bom Nordeste,Sônia Barros,"Av. Beira Mar, 1200",Fortaleza,60165-092,Brasil,(85) 3255-7700
+3,Fazenda Bela Vista,Joaquim Neto,"Estrada Rural, km 12",Ribeirão Preto,14040-900,Brasil,(16) 3911-5522
+4,Indústria Alimentos Mineiros,Cláudia Torres,"Av. dos Andradas, 500",Belo Horizonte,30120-010,Brasil,(31) 3224-8800
+5,Laticínios Serra Gaúcha,Geraldo Passos,"Rua das Hortênsias, 80",Caxias do Sul,95032-000,Brasil,(54) 3225-1230
+6,Maré Alta Pescados,Simone Leal,"Av. Oceânica, 600",Salvador,40170-020,Brasil,(71) 3338-9900
+7,Panambi Grãos,Edson Cunha,"Av. Brasil, 1800",Londrina,86020-000,Brasil,(43) 3322-4411
+8,Cerealista Pantanal,Vera Mendes,"Rua Cuiabá, 250",Campo Grande,79004-050,Brasil,(67) 3317-7766
+9,Doces da Vovó,Helena Ramos,"Rua XV de Novembro, 44",Curitiba,80020-310,Brasil,(41) 3223-9988
+10,Tropical Bebidas,Marcelo Dias,"Av. Eduardo Ribeiro, 200",Manaus,69010-001,Brasil,(92) 3302-5544
+11,Sul Carnes Ltda,Patrícia Silvano,"Rua Uruguai, 1500",Chapecó,89801-050,Brasil,(49) 3322-8877
+12,Arrozeira Gaúcha,Fernando Assis,"Av. Getúlio Vargas, 900",Pelotas,96020-000,Brasil,(53) 3277-4433
+13,Pescados do Pará,Antônio Borges,"Av. Castilhos França, 300",Belém,66010-020,Brasil,(91) 3212-6655
+14,Queijaria Boa Vista,Rosana Teixeira,"Rua da Paz, 78",Uberaba,38010-050,Brasil,(34) 3312-2200
+15,Frios e Frescor,Maurício Braga,"Av. Industrial, 1100",Campinas,13035-000,Brasil,(19) 3241-7788
+16,Cachaçaria do Vale,Denise Xavier,"Estrada do Vale, km 5",Salinas,39560-000,Brasil,(38) 3841-3300
+17,Floresta Amazônica Alimentos,Pedro Guimarães,"Av. Tocantins, 400",Porto Velho,76801-000,Brasil,(69) 3216-5544
+18,Empório Sul Sabores,Cristina Lemos,"Rua dos Imigrantes, 120",Blumenau,89010-300,Brasil,(47) 3321-9900
+19,Indústria Pesqueira Nordeste,Renato Vasconcelos,"Av. Sete de Setembro, 800",Natal,59020-000,Brasil,(84) 3211-7788
+20,Delta Comercial,Vitória Campos,"Av. das Américas, 5000",Rio de Janeiro,22640-102,Brasil,(21) 3322-1155

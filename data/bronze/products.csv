@@ -1,0 +1,21 @@
+productid,productname,supplierid,categoryid,unit,price
+1,Cachaça Artesanal,1,1,Caixa com 12 garrafas 700ml,85.00
+2,Guaraná Antártica,1,1,24 latas 350ml,42.00
+3,Molho de Pimenta,2,2,12 frascos 150ml,28.00
+4,Tempero Baiano,2,2,48 sachês 50g,18.50
+5,Farofa Pronta,3,2,36 pacotes 500g,22.00
+6,Doce de Leite Mineiro,3,3,12 potes 400g,35.00
+7,Mix de Castanhas,3,7,12 pacotes 200g,48.00
+8,Brigadeiro Artesanal,3,3,Caixa 30 unidades,55.00
+9,Picanha Premium,4,6,"Peça aprox. 1,5kg",120.00
+10,Camarão GG congelado,6,8,Pacote 1kg,75.00
+11,Queijo Minas Frescal,5,4,Peça 500g,22.00
+12,Queijo Coalho,5,4,10 unidades 100g,45.00
+13,Alga Nori,6,8,Caixa 50 folhas,12.00
+14,Tofu Orgânico,6,7,40 pacotes 300g,28.00
+15,Shoyu Tradicional,6,2,24 frascos 150ml,32.00
+16,Pão de Queijo Mineiro,7,3,Caixa 500g 20 unidades,18.00
+17,Carne Seca Premium,7,6,Pacote 500g,55.00
+18,Tilápia do Pantanal,6,8,Pacote 1kg congelado,38.00
+19,Biscoito de Polvilho,8,3,Caixa 10 pacotes 100g,15.00
+20,Goiabada Cascão,8,3,Caixa 30 embalagens 300g,42.00
