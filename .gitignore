@@ -42,7 +42,6 @@ wheels/
 .DS_Store
 
 # Data files (source and intermediate)
-data/bronze/*.csv
 data/silver/*.csv
 data/gold/*.csv
 
